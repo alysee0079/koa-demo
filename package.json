@@ -1,0 +1,21 @@
+{
+  "name": "koa-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "devDependencies": {
+    "bluebird": "^3.7.2",
+    "koa": "^2.13.1",
+    "koa-better-body": "^3.3.9",
+    "koa-convert": "^2.0.0",
+    "koa-ejs": "^4.3.0",
+    "koa-router": "^10.0.0",
+    "koa-session": "^6.1.0",
+    "koa-static": "^5.0.0",
+    "memorystream": "^0.3.1",
+    "promise-fs": "^2.1.1",
+    "promise-mysql": "^5.0.2",
+    "redis": "^3.0.2",
+    "uuid": "^8.3.2"
+  }
+}
