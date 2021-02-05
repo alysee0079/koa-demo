@@ -23,5 +23,6 @@ module.exports = {
   // static
   static_path: path.resolve(__dirname, 'static'),
   // 404
-  error_404: path.resolve(__dirname, 'errors/404.html')
+  error_404: path.resolve(__dirname, 'errors/404.html'),
+  md5_key: 'SDfdfg5aO*&$O%ohlkuIYIUOR$LUI$HR(&*FHULI$HRGSDLKJFHSDILUY$*OOY$IUHILUFH*O$&TIGRgrdrgd大概多少风格士大夫敢死队风格让他如果士大夫敢死队发)'
 }
