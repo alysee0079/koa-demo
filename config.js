@@ -3,11 +3,16 @@ const path = require('path')
 module.exports = {
   port: 8081,
   // db
-  db_host: '192.168.5.10',
+  // db_host: '192.168.5.10',
+  // db_port: 3306,
+  // db_user: 'root',
+  // db_password: '123pwe',
+  // db_database: 'yxd_test',
+  db_host: 'localhost',
   db_port: 3306,
   db_user: 'root',
-  db_password: '123pwe',
-  db_database: 'yxd_test',
+  db_password: 'Qwer1129',
+  db_database: 'z_blue_cars',
   // redis
   redis_host: '127.0.0.1',
   redis_port: 6379,
